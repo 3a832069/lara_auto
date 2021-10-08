@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b58c8f8c-e5b2-4b38-ac65-93128eaaa8df" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Demo/HelloWorld.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo/lara.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +16,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration">
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/composer" />
     </include_path>
@@ -42,7 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1633697386100</updated>
       <workItem from="1633697387580" duration="52000" />
-      <workItem from="1633697772602" duration="963000" />
+      <workItem from="1633697772602" duration="1179000" />
     </task>
     <servers />
   </component>
