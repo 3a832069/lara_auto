@@ -1,0 +1,15 @@
+{
+    "name": "linda34264622/lara_auto",
+    "autoload": {
+        "psr-4": {
+            "Linda34264622\\LaraAuto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Len-En Chiu",
+            "email": "linda34264622@gmail.com"
+        }
+    ],
+    "require": {}
+}
