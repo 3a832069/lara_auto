@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Linda34264622\\LaraAuto\\' => array($baseDir . '/src'),
+    'Demo\\' => array($baseDir . '/src/Demo'),
 );

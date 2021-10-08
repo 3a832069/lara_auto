@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b58c8f8c-e5b2-4b38-ac65-93128eaaa8df" name="更改" comment="" />
+    <list default="true" id="b58c8f8c-e5b2-4b38-ac65-93128eaaa8df" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1633697386100</updated>
       <workItem from="1633697387580" duration="52000" />
-      <workItem from="1633697772602" duration="310000" />
+      <workItem from="1633697772602" duration="657000" />
     </task>
     <servers />
   </component>
