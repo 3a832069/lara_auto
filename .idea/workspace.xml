@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b58c8f8c-e5b2-4b38-ac65-93128eaaa8df" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/lara_auto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lara_auto.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Demo/lara.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo/Hello/lara.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Demo/someone.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo/Hello/someone.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +26,8 @@
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
     </include_path>
   </component>
   <component name="ProjectId" id="1zDzKsb3tk8ZHTZPVTgRHHFgh0s" />
@@ -50,7 +57,8 @@
       <option name="presentableId" value="Default" />
       <updated>1633697386100</updated>
       <workItem from="1633697387580" duration="52000" />
-      <workItem from="1633697772602" duration="2366000" />
+      <workItem from="1633697772602" duration="2900000" />
+      <workItem from="1633875743156" duration="728000" />
     </task>
     <servers />
   </component>
